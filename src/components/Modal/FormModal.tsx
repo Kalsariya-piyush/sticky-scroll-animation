@@ -69,7 +69,6 @@ const FormModal = () => {
                       </label>
                       <select
                         className="rounded-xl bg-base-200 p-3 text-base font-medium text-gray-100 outline-none"
-                        placeholder="John"
                       >
                         <option value="">1</option>
                         <option value="">2</option>
